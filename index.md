@@ -1,7 +1,6 @@
 ## Processions
 
-### Thanks for joining. wtf.
-### Thanks for visiting. New update. New new.
+### Adding some new text here
 
 More info coming soon
 
