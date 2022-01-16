@@ -1,5 +1,3 @@
-## Processions
-
-### New addition v1
+# Blog Posts
 
 <a href="./page2">Go to next page</a>
