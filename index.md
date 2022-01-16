@@ -1,6 +1,6 @@
 ## Processions
 
-### Thanks for visiting.
+### Thanks for visiting. New update.
 
 More info coming soon
 
