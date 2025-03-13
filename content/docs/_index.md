@@ -3,7 +3,7 @@ title: Notes
 next: first-page
 ---
 
-This is a demo of the theme's documentation layout.
+Here are some notes. Coming soon.
 
 
 {{< cards >}}
