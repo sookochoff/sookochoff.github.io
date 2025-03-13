@@ -30,7 +30,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     env:
-      HUGO_VERSION: 0.123.7
+      HUGO_VERSION: 0.134.0
     steps:
       - name: Install Git
         run: |
@@ -58,9 +58,8 @@ jobs:
         id: pages
         uses: actions/configure-pages@v4
 
-      - name: Initialize Hugo Modules
+      - name: Update Hugo Modules
         run: |
-          hugo mod init github.com/sookochoff/sookochoff.github.io
           hugo mod get -u github.com/imfing/hextra
           hugo mod tidy
 
