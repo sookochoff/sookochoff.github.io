@@ -1,5 +1,5 @@
 ---
-title: Demo Page
+title: Intro
 type: docs
 prev: /
 next: docs/folder/
