@@ -20,11 +20,11 @@ markup:
 
 menu:
   main:
-    - name: About
-      pageRef: /about
-      weight: 1
     - name: Notes
       pageRef: /docs
+      weight: 1
+    - name: About
+      pageRef: /about
       weight: 2
     - name: Search
       weight: 3
